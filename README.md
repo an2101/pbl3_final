@@ -2,7 +2,7 @@
 Đây là dự án website phần giao diện được viết bằng html, css, javascript và có sử dụng công nghệ Bootstrap. Phần cơ sở dữ liệu dùng PHP và MySQL.
 Hướng dẫn chạy dự án trên Localhost:  
 -Cài đặt phần mềm XAMPP.  
--Tải dự án về máy tính (đặt tên folder nếu muốn), lưu vào thư mục C:\xampp\htdocs  
+-Tải dự án về máy tính (đặt tên folder nếu muốn, xóa file notice.txt ở thư mục files và uploads), lưu vào thư mục C:\xampp\htdocs  
 -Mở XAMPP, bật Apache và MySQL.  
 -Vào trang http://localhost/phpmyadmin/, sau đó tạo cơ sở dữ liệu test7.  
 -Nhập csdl test7.sql từ thư mục db  
