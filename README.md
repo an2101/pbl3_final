@@ -10,5 +10,6 @@ Hướng dẫn chạy dự án trên Localhost:
 Tài khoản: admin  
 Mật khẩu: admin  
 -Truy cập trang Student: http://localhost/test7  
-(Chức năng chuyển file pdf cần yêu cầu cài đặt LibreOffice trên máy tính.  
-Linh web demo trên host: http://librarydut.infinityfreeapp.com/test7/admin
+(Chức năng chuyển file pdf cần yêu cầu cài đặt LibreOffice trên máy tính).   
+Link web demo trên host (admin): http://librarydut.infinityfreeapp.com/test7/admin  
+Link web demo trên host (student): http://librarydut.infinityfreeapp.com/test7
